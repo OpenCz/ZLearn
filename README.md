@@ -1,5 +1,7 @@
 # ZLearn
 
+[![CI](https://github.com/OpenCz/ZLearn/actions/workflows/ci.yml/badge.svg)](https://github.com/OpenCz/ZLearn/actions/workflows/ci.yml)
+
 A C++17 machine learning library.
 
 ## Building
